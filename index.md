@@ -3,7 +3,7 @@
 ---
 
 # Contents
-* [Identify]({% post_url 2020-08-27-Identify %})
+* [Identify]({{ "/2020/08/27/Identify.html" | relative_url }})
 * Investigate
 * Interpret
 * Ideate

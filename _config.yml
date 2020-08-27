@@ -8,4 +8,3 @@ defaults:
       image: true
 github:
   is_project_page: false
-  baseurl: "/metadata-example"
