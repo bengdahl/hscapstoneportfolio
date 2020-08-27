@@ -1,9 +1,14 @@
 ---
-layout: home
+
 ---
 
 # Contents
-* [Identify]({% post_url 2010-07-21-name-of-post %})
+* [Identify]({% post_url 2020-08-27-Identify %})
+* Investigate
+* Interpret
+* Ideate
+* Implement
+* Inform
 
 <!-- ## Welcome to GitHub Pages
 
