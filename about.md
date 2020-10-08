@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-[Back to home]({{ "/" | relative_url}})
+[Return to home]({{ "/" | relative_url}})
 
 # Contact Info
 
