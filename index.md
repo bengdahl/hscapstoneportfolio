@@ -10,7 +10,7 @@
 * Implement
 * Inform
 
-(About)[{{ "/about" | relative_url }}]
+# [About]({{ "/about" | relative_url }})
 
 <!-- ## Welcome to GitHub Pages
 
