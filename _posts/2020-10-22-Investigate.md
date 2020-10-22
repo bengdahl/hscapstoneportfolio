@@ -14,20 +14,20 @@ All of the following information has been gathered from these sites:
 # Empathy Map
 
 <figure>
-    <img src={{ "/assets/img/2020-09-24-eh.png" | relative_url }} />
+    <img src="{{ "/assets/img/2020-09-24-eh.png" | relative_url }}" />
     <figcaption>This chart shows who this problem affects, why/how it affects them, and what solutions already exist.</figcaption>
 </figure>
 
 # Ecosystem Map
 
 <figure>
-    <img src={{ "/assets/img/2020-10-01-ecomap-no-bg.png" | relative_url }} />
+    <img src="{{ "/assets/img/2020-10-01-ecomap-no-bg.png" | relative_url }}" />
     <figcaption>Now we take a closer look at what solutions are already available, and see why they aren't enough.</figcaption>
 </figure>
 
 # Root Cause
 
 <figure>
-    <img src={{ "/assets/img/2020-10-15-root-cause-no-bg.png" | relative_url }} />
+    <img src="{{ "/assets/img/2020-10-15-root-cause-no-bg.png" | relative_url }}" />
     <figcaption>Now, we take a closer look at what exactly is the root cause of the issue.</figcaption>
 </figure>
