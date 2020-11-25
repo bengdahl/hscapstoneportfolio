@@ -5,8 +5,8 @@
 # Contents
 * [Identify]({{ "/2020/08/27/Identify.html" | relative_url }})
 * [Investigate]({{ "/2020/10/22/Investigate.html" | relative_url }})
-* Interpret
-* Ideate
+* [Interpret]({{ "/2020/11/24/Interpret-Ideate.html" | relative_url }})
+* [Ideate]({{ "/2020/11/24/Interpret-Ideate.html" | relative_url }})
 * Implement
 * Inform
 
