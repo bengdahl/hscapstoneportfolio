@@ -31,3 +31,7 @@ All of the following information has been gathered from these sites:
     <img src="{{ "/assets/img/2020-10-15-root-cause-no-bg.png" | relative_url }}" />
     <figcaption>Now, we take a closer look at what exactly is the root cause of the issue.</figcaption>
 </figure>
+
+# Video
+
+<iframe width="1280" height="722" src="https://www.youtube.com/embed/lV_fNc-p34I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
