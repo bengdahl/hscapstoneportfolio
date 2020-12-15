@@ -34,4 +34,4 @@ All of the following information has been gathered from these sites:
 
 # Video
 
-<iframe width="1280" height="722" src="https://www.youtube.com/embed/lV_fNc-p34I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="752" height="564" src="https://www.youtube.com/embed/lV_fNc-p34I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
